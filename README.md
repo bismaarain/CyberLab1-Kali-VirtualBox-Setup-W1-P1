@@ -126,6 +126,23 @@ A failed ping alone does not prove that all connectivity is unavailable; ICMP ma
 
 ## Screenshots
 
+The following screenshots demonstrate the Kali Linux setup, VirtualBox configuration, and network settings.
+
+### 1. VirtualBox Homepage
+![VirtualBox Homepage](./screenshots/virtual%20box%20homepage.png)
+
+### 2. Kali Linux Homepage
+![Kali Linux Homepage](./screenshots/kali-homepage.png)
+
+### 3. Network Settings
+![Network Settings](./screenshots/network%20setting.png)
+
+### 4. IPv4 Configuration
+![IPv4 Settings](./screenshots/IPv4-setting.png)
+
+### 5. Running the Given Command
+![Running the Given Command](./screenshots/using-given-command.png)
+
 ## Documentation
 
 - [Installation guide](docs/installation-guide.md)
