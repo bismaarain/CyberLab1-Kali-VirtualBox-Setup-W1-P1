@@ -1,0 +1,24 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and editor files
+*.tmp
+*.bak
+*~
+.vscode/
+.idea/
+
+# Virtual machine artifacts
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+
+# Sensitive local configuration
+.env
+*.pem
+*.key
