@@ -126,8 +126,6 @@ A failed ping alone does not prove that all connectivity is unavailable; ICMP ma
 
 ## Screenshots
 
-Place genuine screenshots captured from the lab in the `screenshots/` directory. Add the corresponding Markdown image links to `screenshots/README.md`. Ensure filenames match exactly, including capitalization and spaces.
-
 ## Documentation
 
 - [Installation guide](docs/installation-guide.md)
@@ -153,13 +151,11 @@ See [SECURITY.md](SECURITY.md) for repository security guidance.
 
 ## Project Status
 
-**Status: Learning project / in progress.**
-
-This repository is a work in progress. Practical results and completed tasks will be added as they are performed and verified.
+**Status: Learning project.**
 
 ## Author
 
 **Name:** Bisma  
-**GitHub:** Add GitHub profile link  
-**LinkedIn:** Add LinkedIn profile link  
+**GitHub:** https://github.com/bismaarain  
+**LinkedIn:** https://www.linkedin.com/in/bisma-0b8965441?utm_source=share_via&utm_content=profile&utm_medium=member_android  
 **Learning Interests:** Cybersecurity | Linux | Networking | Virtualization
